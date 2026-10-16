@@ -1,0 +1,29 @@
+# STM32CubeIDE / Keil build output
+build/
+Debug/
+Release/
+Objects/
+Listings/
+*.o
+*.obj
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.dep
+*.crf
+*.d
+*.iex
+*.sct
+*.lnp
+*.uvguix.*
+
+# Editor and operating system files
+.vscode/
+.idea/
+*~
+Thumbs.db
+Desktop.ini
